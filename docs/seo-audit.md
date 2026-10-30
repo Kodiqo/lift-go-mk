@@ -43,7 +43,7 @@ introduced by this redesign.
   the domain root. Merge its sitemap/policy into the root site's robots file if
   you control it, or use a custom domain with a root deployment. Do not replace
   other projects' existing policies. Root hosting was not changed here.
-- Submit `https://bojan-ivanovski.github.io/lift-go-mk/sitemap-index.xml` directly
+- Submit `https://kodiqo.github.io/lift-go-mk/sitemap-index.xml` directly
   in Google Search Console and Bing Webmaster Tools after deployment. The
   project-folder robots file does not provide automatic root sitemap discovery.
 - Verify the site in those accounts and inspect the canonical pages. Use actual

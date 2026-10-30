@@ -16,7 +16,7 @@ The repository configuration and website integration are prepared locally. **Do 
 
 1. Commit and deploy this CMS configuration after review. `.pages.yml` must be available on `main` for the hosted editor to read it.
 2. Open [Pages CMS](https://app.pagescms.org/) and sign in with the GitHub account that owns this repository.
-3. Install its GitHub App with access to **only `Bojan-Ivanovski/lift-go-mk`**.
+3. Install its GitHub App with access to **only `Kodiqo/lift-go-mk`**.
 4. Open that repository on the `main` branch. Confirm the four configured sections appear.
 5. In collaborator management, invite the approved editor email. The temporary editor email supplied in this session belongs to the owner; replace it with the client's email when ready. Invitations live in Pages CMS, not in `.pages.yml`.
 6. Open the invitation in a separate browser profile that is not signed in to GitHub. Confirm email-only access works and settings/collaborator management are unavailable.

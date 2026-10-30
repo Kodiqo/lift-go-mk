@@ -3,7 +3,7 @@ import tailwindcss from '@tailwindcss/vite';
 import cascadeLayers from '@csstools/postcss-cascade-layers';
 
 export default defineConfig({
-  site: process.env.SITE_URL ?? 'https://bojan-ivanovski.github.io',
+  site: process.env.SITE_URL ?? 'https://kodiqo.github.io',
   base: process.env.BASE_PATH ?? '/lift-go-mk/',
   output: 'static',
   vite: {
